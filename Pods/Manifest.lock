@@ -1,0 +1,20 @@
+PODS:
+  - FontAwesome.swift (1.9.1)
+  - FSCalendar (2.8.2)
+
+DEPENDENCIES:
+  - FontAwesome.swift
+  - FSCalendar
+
+SPEC REPOS:
+  trunk:
+    - FontAwesome.swift
+    - FSCalendar
+
+SPEC CHECKSUMS:
+  FontAwesome.swift: 6b52cb7be66eacd28cbfaa0ca7ffd0de4a186a1d
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+
+PODFILE CHECKSUM: c76eabf8fff07dbfc302f90948b9e8083bd679e7
+
+COCOAPODS: 1.10.1
